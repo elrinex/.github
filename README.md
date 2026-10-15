@@ -1,4 +1,4 @@
-![ELRINEX — Digital Engineering](./assets/organization-cover.png)
+![ELRINEX — Digital Engineering](https://raw.githubusercontent.com/elrinex/.github/main/profile/assets/organization-cover.png)
 
 # ELRINEX
 
