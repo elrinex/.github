@@ -1,6 +1,5 @@
 ![ELRINEX — Digital Engineering](https://raw.githubusercontent.com/elrinex/.github/main/profile/assets/organization-cover.png)
 
-# ELRINEX
 
 **Digital engineering. Built around your business.**
 
